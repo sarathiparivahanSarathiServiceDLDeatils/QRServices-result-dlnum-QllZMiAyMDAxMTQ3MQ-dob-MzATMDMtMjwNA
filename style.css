@@ -1,6 +1,6 @@
-@media only screen and (min-width: 380px) {
+@media only screen and (min-width: 300px) {
   .img{
-    height:300;
-    width:300;
+    height:100;
+    width:100;
   }
 }
