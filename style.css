@@ -1,14 +1,17 @@
-
+/* Image Tag */
   img{
     height:1200px;
     width:900px;
   }
 
-@media screen and (max-width:400px){
-  .responsive img{
+/* Media Screen For Mobile */
+@media screen and (max-width:400px)
+{
+  .responsive img
+    {
      padding: 0px 20px;
      height:100%;
      width:100%;
-  }
+    }
  }
 
